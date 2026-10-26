@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+
+logs/
+pretrained_models/
+data/shapes3d
+*.ckpt
+*.pth
+*.pt
+*.npz
+*.h5
+*.hdf5
+
+.ipynb_checkpoints/
+.DS_Store
