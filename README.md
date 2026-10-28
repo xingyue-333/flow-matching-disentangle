@@ -36,16 +36,4 @@ python main_val.py -b configs/latent-diffusion/cars3d.yaml -t --gpus 0,
 
 本仓库的潜空间扩散骨架来自 [LDM](https://github.com/CompVis/latent-diffusion) 与 [EncDiff](https://arxiv.org/pdf/2402.09712)。解耦指标来自 [disentanglement_lib](https://github.com/google-research/disentanglement_lib)。
 
-## 作者
 
-待补充。
-
-## 引用
-
-```bibtex
-@article{flowmatchingdisentangle,
-  title={Flow Matching Disentangle},
-  author={TODO},
-  year={TODO}
-}
-```
